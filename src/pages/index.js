@@ -111,6 +111,13 @@ export default (() => {
 								</Span>
 								{" "}in everything we do
 							</Text>
+							<Text font="--base" margin="0px mixed">
+								Striving for{" "}
+								<Span font="italic 300 18px/24px --fontFamily-serifGeorgia" color="--orange">
+									perfection
+								</Span>
+								{" "}in everything we do
+							</Text>
 						</StackItem>
 					</Stack>
 				</StackItem>
